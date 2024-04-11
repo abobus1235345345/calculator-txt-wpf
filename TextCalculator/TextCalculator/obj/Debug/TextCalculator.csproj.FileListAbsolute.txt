@@ -1,0 +1,14 @@
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.csproj.AssemblyReference.cache
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\MainWindow.baml
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\MainWindow.g.cs
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\App.g.cs
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator_MarkupCompile.cache
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.g.resources
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.Properties.Resources.resources
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.csproj.GenerateResource.cache
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.csproj.CoreCompileInputs.cache
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\bin\Debug\TextCalculator.exe.config
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\bin\Debug\TextCalculator.exe
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\bin\Debug\TextCalculator.pdb
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.exe
+D:\ИС-23\Родин Никита\TextCalculator\TextCalculator\obj\Debug\TextCalculator.pdb
